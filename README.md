@@ -12,22 +12,22 @@ I adhere to "Clean Code" principles and specialize in the entire software lifecy
 
 I have structured my work into four distinct development organizations to maintain architectural clarity and domain separation.
 
-### 1. [PROGMUD Solutions](LINK_PARA_ORG_PROGMUD)
+### 1. [PROGMUD Solutions](https://github.com/PROGMUD)
 **Focus:** Enterprise Resource Planning (ERP) & Corporate Management.
 * **Overview:** High-level corporate systems for financial management, HR, and internal operations.
 * **Key Projects:** `Portal Progmud` (Laravel ERP), `Progmud Mobile` (Kotlin/Android).
 
-### 2. [MAXSELL Technology](LINK_PARA_ORG_MAXSELL)
+### 2. [MAXSELL Technology](https://github.com/maxsell-projects)
 **Focus:** PropTech & Real Estate Innovation.
 * **Overview:** A suite of high-performance applications for the real estate market, CRM platforms, and personal branding sites for top-tier consultants.
 * **Key Projects:** `House Team` (CRM), `Solara` (Headless React), `Crow Global`.
 
-### 3. [SaaS & Independent Ventures](LINK_PARA_ORG_SAAS)
+### 3. [SaaS & Independent Ventures](https://github.com/saas-that-I-made)
 **Focus:** Commercial Products & Startups.
 * **Overview:** Complete software products conceptualized, architected, and deployed by me. Real-world solutions with active users.
 * **Key Projects:** `Milenium` (SaaS Boilerplate), `Reaproveita` (Logistics), `My Bento Studio` (Design Tool).
 
-### 4. [R&D Concepts & Labs](LINK_PARA_ORG_ESTUDOS)
+### 4. [R&D Concepts & Labs](https://github.com/studyy-projects)
 **Focus:** Academic Research & Architectural Prototypes.
 * **Overview:** My personal laboratory for experimenting with new languages (Java/Spring, Go), Cloud Infrastructure (AWS/Terraform), and complex algorithms.
 
