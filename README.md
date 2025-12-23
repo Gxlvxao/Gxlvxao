@@ -1,33 +1,54 @@
-### Aquiles Galvão
+# Hi there, I'm Aquiles Galvão.
 
-Desenvolvedor full-stack focado na construção de aplicações web eficientes e escaláveis. Experiência em projetos que vão de sistemas monolíticos com **PHP/Laravel** a APIs robustas com **Java/Spring Boot** e microsserviços cloud-native com **Go**. Tenho como princípio a escrita de código limpo e a automação de infraestrutura e deployment (CI/CD, IaC).
+### Full-Cycle Software Engineer & SaaS Architect
 
----
+I am a developer focused on building efficient and scalable web applications. My expertise ranges from robust **Monolithic Systems** (PHP/Laravel) to **Cloud-Native Microservices** (Go, NestJS) and **Enterprise Java APIs**.
 
-**Stack Principal:**
-
-* **Linguagens:** Java, Go, PHP, TypeScript/JavaScript
-* **Frameworks:** Spring Boot, Laravel, React
-* **Cloud & DevOps:** AWS, Terraform, Docker, GitHub Actions
-* **Bancos de Dados:** PostgreSQL, MySQL, DynamoDB
+I adhere to "Clean Code" principles and specialize in the entire software lifecycle, including architecture design, database modeling, frontend implementation, and automated infrastructure (CI/CD, IaC).
 
 ---
 
-### Projetos Selecionados
+## 🏢 Engineering Portfolio & Organizations
 
-1.  **Gerenciador de Tarefas - API REST Full-Cycle com Java e AWS**
-    * API RESTful completa construída com **Java 17** e **Spring Boot**, com autenticação segura via **JWT**. A aplicação é totalmente containerizada com **Docker** e a infraestrutura na **AWS** (ECS Fargate, RDS, ECR, ALB) é provisionada de forma 100% automatizada com **Terraform**.
-    * **Link para o repositório:** [https://github.com/Gxlvxao/API-Restful](https://github.com/Gxlvxao/API-Restful)
+I have structured my work into four distinct development organizations to maintain architectural clarity and domain separation.
 
-2.  **Shortly - Encurtador de URLs Full-Stack na AWS com CI/CD**
-    * Aplicação de encurtamento de URLs com backend em **Go** e frontend em **React/TypeScript**. A infraestrutura é provisionada como código com **Terraform** na **AWS** (ECS Fargate, DynamoDB, ALB) e o deploy é automatizado com **GitHub Actions**.
+### 1. [PROGMUD Solutions](LINK_PARA_ORG_PROGMUD)
+**Focus:** Enterprise Resource Planning (ERP) & Corporate Management.
+* **Overview:** High-level corporate systems for financial management, HR, and internal operations.
+* **Key Projects:** `Portal Progmud` (Laravel ERP), `Progmud Mobile` (Kotlin/Android).
 
-3.  **Portal Progmud - Sistema de Gestão de Consultoria**
-    * Plataforma monolítica robusta em **PHP/Laravel** para gerenciamento de contratos, alocação de consultores e apontamento de horas. Utiliza **MySQL**, **Tailwind CSS** e **Alpine.js**.
+### 2. [MAXSELL Technology](LINK_PARA_ORG_MAXSELL)
+**Focus:** PropTech & Real Estate Innovation.
+* **Overview:** A suite of high-performance applications for the real estate market, CRM platforms, and personal branding sites for top-tier consultants.
+* **Key Projects:** `House Team` (CRM), `Solara` (Headless React), `Crow Global`.
+
+### 3. [SaaS & Independent Ventures](LINK_PARA_ORG_SAAS)
+**Focus:** Commercial Products & Startups.
+* **Overview:** Complete software products conceptualized, architected, and deployed by me. Real-world solutions with active users.
+* **Key Projects:** `Milenium` (SaaS Boilerplate), `Reaproveita` (Logistics), `My Bento Studio` (Design Tool).
+
+### 4. [R&D Concepts & Labs](LINK_PARA_ORG_ESTUDOS)
+**Focus:** Academic Research & Architectural Prototypes.
+* **Overview:** My personal laboratory for experimenting with new languages (Java/Spring, Go), Cloud Infrastructure (AWS/Terraform), and complex algorithms.
 
 ---
 
-**Contato:**
+## 🛠 Technology Stack
 
-* **Email:** [aquilesmorato07@gmail.com](mailto:aquilesmorato07@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/aquiles-morato-2722b52b0](https://www.linkedin.com/in/aquiles-morato-2722b52b0)
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+
+**Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📬 Contact
+
+I am open to discussing complex architectural challenges and international opportunities.
+
+* **Email:** aquilesmorato07@gmail.com
+* **LinkedIn:** [Aquiles Morato](https://www.linkedin.com/in/aquiles-morato-2722b5212/)
